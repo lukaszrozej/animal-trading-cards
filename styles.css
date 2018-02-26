@@ -1,0 +1,36 @@
+* {
+	box-sizing: border-box;
+}
+
+.card {
+	border: 1px solid #ccc;
+	width: 332px;
+	box-shadow: 10px 10px 5px #dedede;
+	font-family: 'Lato', sans-serif;
+}
+
+.card-content {
+	display: block;
+	margin: 1em auto;
+	width: 300px;
+}
+
+.info {
+	border: 1px solid #ccc;
+	padding: 0 1em;
+	width: 300px;
+}
+
+.fact {
+	font-style: italic;
+}
+
+ul {
+	list-style: none;
+	padding: 0;
+}
+
+span {
+	font-weight: bold;
+}
+
