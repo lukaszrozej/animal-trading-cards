@@ -2,10 +2,15 @@
 	box-sizing: border-box;
 }
 
+body {
+	background: #ada2a2;
+}
+
 .card {
+	background: white;
 	border: 1px solid #ccc;
 	width: 332px;
-	box-shadow: 10px 10px 5px #dedede;
+	box-shadow: 10px 10px 10px #7d7272;
 	font-family: 'Lato', sans-serif;
 	margin: 0 auto;
 }
